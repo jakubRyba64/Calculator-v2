@@ -1,5 +1,5 @@
 # Calculator v2
-<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/1a71c2b2-bc80-49fc-bdc0-0c05e2d227b7" />
+<img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/b07647db-1fed-4951-824c-413d41b81ec0" />
 
 **Plně funkční kalkulačka s historií výpočtů a možností opětovného použití.**
 
